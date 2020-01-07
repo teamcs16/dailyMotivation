@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241333549268",
+    "firebase_url": "https://daily-motivation-e5fca.firebaseio.com",
+    "project_id": "daily-motivation-e5fca",
+    "storage_bucket": "daily-motivation-e5fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241333549268:android:dbd0f84b1f073c9a",
+        "android_client_info": {
+          "package_name": "com.teamcs.mm.dailymotivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241333549268-v4s8qn62vhjjtah5rs4s7mqnmam8bos6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwuLbSy1VygaZ1hkEiyOCS5fUFGyxw0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241333549268-v4s8qn62vhjjtah5rs4s7mqnmam8bos6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Motivation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text_swticher">Daily Motivation</string>
+    <string name="action_text_swticher">Text Switcher</string>
+    <string name="share_using">Share using...</string>
+    <string name="title_activity_motivation_list">MotivationListActivity</string>
+    <string name="action_motivation_list">Motivation List</string>
+</resources>
